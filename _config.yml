@@ -1,0 +1,18 @@
+# Site settings
+title: "Sumo's Lair"
+description: "Killing Floor mutators and stuff."
+baseurl: ""
+url: "http://kingsumos.github.io"
+twitter_username: sextabruta
+github_username:  kingsumos
+
+google_analytics: UA-53897634-1
+
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-53897634-1'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
